@@ -1,6 +1,7 @@
 # COE Price Prediction and Quota Optimization
 
-This repository contains the following:
+This repository contains a model predicting COE prices, and investigations on
+how COE quotas affect COE prices.
 ```
 ├── data
 │   └── data_sources.txt    # links to data sources
