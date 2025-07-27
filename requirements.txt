@@ -1,0 +1,5 @@
+ipykernel
+matplotlib
+pandas
+prophet
+scikit-learn
